@@ -1,7 +1,7 @@
 ---
 title: "Ada Gobetti"
 layout: scrollstory
-header-image: images/ada1.jpg
+header-image: images/ada2.jpg
 thumbnail: images/ada2.jpg
 position: 1
 summary: A biography of an anti-fascist woman in the early 20th century.
@@ -19,7 +19,7 @@ Ada Prospero Marchesini Gobetti was born in Turin, Italy on July 13, 1902, as Ad
   image-path="images/pierogobetti.jpeg"
   image-position="left"
   image-width="48%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  caption="Piero Gobetti c. 1920."
   text=chile_origins_text
 %}
 
