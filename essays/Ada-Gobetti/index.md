@@ -36,8 +36,8 @@ Although standing up for these beliefs would prove ultimately difficult. Piero h
 
 {% include images/figure-wrap.html
   image-path="images/Invasionofitaly1943.jpg"
-  image-position="right"
-  image-width="45%"
+  image-position="center"
+  image-width="50%"
   caption="Allied invasion of Italy, 1943."
   text=chile_nm_text
 %}
