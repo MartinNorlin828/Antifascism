@@ -1,7 +1,7 @@
 ---
 title: "Ada Gobetti"
 layout: scrollstory
-header-image: images/ada2.jpg
+header-image: images/ada3.jpg
 thumbnail: images/ada2.jpg
 position: 1
 summary: A biography of an anti-fascist woman in the early 20th century.
@@ -38,7 +38,7 @@ Although standing up for these beliefs would prove ultimately difficult. Piero h
   image-path="images/Invasionofitaly1943.jpg"
   image-position="right"
   image-width="45%"
-  caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
+  caption="Allied invasion of Italy, 1943."
   text=chile_nm_text
 %}
 
